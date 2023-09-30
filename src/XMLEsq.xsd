@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Canciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Cancion>
+        <Duracion>6.04</Duracion>
+        <Anio>2017</Anio>
+        <Titulo>Si tu supieras compañero</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombre>Rosalia</Nombre>
+                <Apellidos>Vila Torbella</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombre>Raul Refree</Nombre>
+            </Productor>
+        </Productores>
+        <Sello>Universal Music Spain S.L.</Sello>
+        <Artistas>
+            <Artista>
+                <Nombre>Rosalia</Nombre>
+                <Apellidos>Vila Torbella</Apellidos>
+            </Artista>
+        </Artistas>
+    </Cancion>
+    <Cancion>
+        <Duracion>2:30</Duracion>
+        <Anio>2018</Anio>
+        <Titulo>MALAMENTE</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombre>Pablo</Nombre>
+                <Apellidos>Diaz-Reixa</Apellidos>
+            </Compositor>
+            <Compositor>
+                <Nombre>Rosalia</Nombre>
+                <Apellidos>Vila</Apellidos>
+            </Compositor>
+            <Compositor>
+                <Nombre>Anton</Nombre>
+                <Apellidos>Alavrez Alfaro</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombre>Rosalia</Nombre>
+            </Productor>
+        </Productores>
+        <Sello>Columbia, Universal Music Publishing</Sello>
+        <Artistas>
+            <Artista>
+                <Nombre>Rosalia</Nombre>
+                <Apellidos>Vila</Apellidos>
+            </Artista>
+        </Artistas>
+    </Cancion>
+    <Cancion>
+        <Duracion>2:23</Duracion>
+        <Anio>2020</Anio>
+        <Titulo>Dolerme</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombre>Frank</Nombre>
+                <Apellidos>Dukees</Apellidos>
+            </Compositor>
+            <Compositor>
+                <Nombre>Matthew</Nombre>
+                <Apellidos>Tavares</Apellidos>
+            </Compositor>
+        </Compositores>
+        <Productores>
+            <Productor>
+                <Nombre>Frank</Nombre>
+            </Productor>
+        </Productores>
+        <Sello>Columbia, Sony Music Publishing</Sello>
+        <Artistas>
+            <Artista>
+                <Nombre>Rosalia</Nombre>
+                <Apellidos>Vila Torbella</Apellidos>
+            </Artista>
+        </Artistas>
+    </Cancion>
+</Canciones>
